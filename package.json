@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "tiny-ducks",
+  "name": "@abcnews/tiny-ducks",
   "author": "Simon Elvery",
   "module": "dist/tiny-ducks.esm.js",
   "devDependencies": {
