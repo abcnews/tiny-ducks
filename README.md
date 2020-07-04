@@ -4,7 +4,7 @@
 
 ## Usage
 
-For usage examples see [the example](./example/index.tsx)/
+For usage examples see [the example](./example/index.tsx).
 
 ## Development
 
